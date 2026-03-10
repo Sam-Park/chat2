@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "stream-chat-react": "^1.2.5"
+    "stream-chat-react": "^13.13.6"
   },
   "scripts": {
     "start": "react-scripts start",
